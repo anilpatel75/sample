@@ -5,4 +5,13 @@ function myfunction()
     console.log("whatsUp");
 
     console.log("hello how r u ")
+    funcuivnv 
+    vfv 
+    dvnsv 
+    function myfunction()
+    {
+        fdvfvfg
+        csadfwrfs
+        
+    }
 }
