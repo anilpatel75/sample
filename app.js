@@ -15,5 +15,10 @@ function myfunction()
         csadfwrfs
         
     }
-}
 
+    function anotherfunction(a ,b)
+    {
+        console.log(a);
+        console.log(b);
+    }
+}
