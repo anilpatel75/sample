@@ -9,9 +9,3 @@ function myfunction()
      
 }
 
-hello  my name is  anil patel  and i am goi
-to ANGLE_instanced_arrays const  before(() => {
-    
-}); = (params) => {
-    
-}
