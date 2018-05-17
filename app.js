@@ -19,4 +19,9 @@ function myfunction()
         console.log(a);
         console.log(b);
     }
+    function csddsv(c ,d)
+    {
+        console.log(a);
+        console.log(b);
+    }
 }
